@@ -43,7 +43,7 @@ A Python script to transform real images into cartoon-like images using OpenCV. 
 
 ## Example
 ### Input Image:
-![Input Image](c1.jpg)
+![Input Image](c1.jpeg)
 
 ### Cartoonized Image:
 ![Cartoonized Image](c2.png)
